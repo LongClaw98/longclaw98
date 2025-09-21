@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+#### This is my little corner to share projects and experiments. please do take a look around.
 
+- 🌱 I’m learning various Data Analytics tools like SQL, Python, Power BI, And other online data services (GCP, Azure).
+- 🔃 working on - sales dataset, meteorite-history data ...
 <!--
 **LongClaw98/longclaw98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
