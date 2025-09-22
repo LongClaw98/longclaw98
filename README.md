@@ -9,7 +9,7 @@
 
 <br>
 
-[linkedin](www.linkedin.com/in/onkar-takalkar-588a381b4)  |  [Kaggle](www.kaggle.com/onkart)
+[linkedin](https://www.linkedin.com/in/onkar-takalkar-588a381b4)  |  [Kaggle](https://www.kaggle.com/onkart)
 <!--
 **LongClaw98/longclaw98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
