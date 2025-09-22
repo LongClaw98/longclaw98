@@ -4,6 +4,12 @@
 
 - 🌱 I’m learning various Data Analytics tools like SQL, Python, Power BI and other online data services (GCP, Azure).
 - 🔃 working on - sales dataset, meteorite-history data ...
+
+
+
+<br>
+
+[linkedin](www.linkedin.com/in/onkar-takalkar-588a381b4)  |  [Kaggle](www.kaggle.com/onkart)
 <!--
 **LongClaw98/longclaw98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
